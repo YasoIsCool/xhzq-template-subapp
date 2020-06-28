@@ -2,7 +2,7 @@
   "name": "xhzq-template-subapp",
   "author": "gaojapeng",
   "description": "template-subapp",
-  "port": 9001,
+  "port": 9011,
   "version": "1.0.0",
   "private": true,
   "scripts": {
